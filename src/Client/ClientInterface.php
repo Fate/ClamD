@@ -1,6 +1,6 @@
 <?php
 
-namespace Fate\ClamD\Client;
+namespace MBlankenship\ClamD\Client;
 
 interface ClientInterface
 {

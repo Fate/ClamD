@@ -1,5 +1,5 @@
 {
-    "name": "fate/clamd",
+    "name": "mblankenship/clamd",
     "description": "ClamAV daemon wrapper.",
     "keywords": ["clamav", "clamd", "clam", "daemon", "socket", "client", "wrapper", "virus", "scan", "antivirus", "anti-virus", "scanner"],
     "type": "library",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fate\\ClamD\\": "src/"
+            "MBlankenship\\ClamD\\": "src/"
         }
     },
     "config": {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Fate\ClamD\Client;
+namespace MBlankenship\ClamD\Client;
 
-use Fate\ClamD\Client\ClientInterface;
-use Fate\ClamD\Exception\SocketException;
+use MBlankenship\ClamD\Client\ClientInterface;
+use MBlankenship\ClamD\Exception\SocketException;
 
 class Client implements ClientInterface
 {

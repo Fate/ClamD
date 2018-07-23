@@ -1,6 +1,6 @@
 <?php
 
-namespace Fate\ClamD\Commands;
+namespace MBlankenship\ClamD\Commands;
 
 interface CommandInterface
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Fate\ClamD\Exception;
+namespace MBlankenship\ClamD\Exception;
 
 use RuntimeException;
 

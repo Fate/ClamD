@@ -1,8 +1,8 @@
 <?php
 
-namespace Fate\ClamD\Commands\Scans;
+namespace MBlankenship\ClamD\Commands\Scans;
 
-use Fate\ClamD\Commands\Command;
+use MBlankenship\ClamD\Commands\Command;
 
 class Scan extends Command
 {

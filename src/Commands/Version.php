@@ -1,8 +1,8 @@
 <?php
 
-namespace Fate\ClamD\Commands;
+namespace MBlankenship\ClamD\Commands;
 
-use Fate\ClamD\Commands\Command;
+use MBlankenship\ClamD\Commands\Command;
 
 final class Version extends Command
 {

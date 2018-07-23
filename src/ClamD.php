@@ -1,9 +1,9 @@
 <?php
 
-namespace Fate\ClamD;
+namespace MBlankenship\ClamD;
 
-use Fate\ClamD\Client\ClientFactory;
-use Fate\ClamD\Commands\CommandInterface;
+use MBlankenship\ClamD\Client\ClientFactory;
+use MBlankenship\ClamD\Commands\CommandInterface;
 
 class ClamD
 {

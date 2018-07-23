@@ -1,8 +1,8 @@
 <?php
 
-namespace Fate\ClamD\Commands\Scans;
+namespace MBlankenship\ClamD\Commands\Scans;
 
-use Fate\ClamD\Commands\Scans\Scan;
+use MBlankenship\ClamD\Commands\Scans\Scan;
 
 final class FileDescriptorScan extends Scan
 {

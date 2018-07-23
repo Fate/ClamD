@@ -1,8 +1,8 @@
 <?php
 
-namespace Fate\ClamD\Commands\Session;
+namespace MBlankenship\ClamD\Commands\Session;
 
-use Fate\ClamD\Commands\Command;
+use MBlankenship\ClamD\Commands\Command;
 
 final class Start extends Command
 {

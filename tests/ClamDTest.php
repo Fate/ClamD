@@ -1,8 +1,8 @@
 <?php
 
-use Fate\ClamD\ClamD;
-use Fate\ClamD\Client\ClientFactory;
-use Fate\ClamD\Commands\Ping;
+use MBlankenship\ClamD\ClamD;
+use MBlankenship\ClamD\Client\ClientFactory;
+use MBlankenship\ClamD\Commands\Ping;
 use PHPUnit\Framework\TestCase;
 
 final class ClamDTest extends TestCase

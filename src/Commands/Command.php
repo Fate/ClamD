@@ -1,8 +1,8 @@
 <?php
 
-namespace Fate\ClamD\Commands;
+namespace MBlankenship\ClamD\Commands;
 
-use Fate\ClamD\Commands\CommandInterface;
+use MBlankenship\ClamD\Commands\CommandInterface;
 
 class Command implements CommandInterface
 {
