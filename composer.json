@@ -1,0 +1,29 @@
+{
+    "name": "fate/clamd",
+    "description": "ClamAV daemon wrapper.",
+    "keywords": ["clamav", "clamd", "clam", "daemon", "socket", "client", "wrapper", "virus", "scan", "antivirus", "anti-virus", "scanner"],
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Matthew Blankenship",
+            "email": "matt@mattblankenship.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0",
+        "ext-sockets": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fate\\ClamD\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
